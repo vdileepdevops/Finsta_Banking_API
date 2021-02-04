@@ -19,10 +19,10 @@
 
   <ItemGroup>
     <Reference Include="Mono.Security">
-      <HintPath>..\FinstaGeneric_Api\Tools\Mono.Security.dll</HintPath>
+      <HintPath>..\..\..\Banking\Finsta_Banking_API\FinstaGenericRepository\bin\Debug\netcoreapp2.1\Mono.Security.dll</HintPath>
     </Reference>
     <Reference Include="Npgsql">
-      <HintPath>..\FinstaGeneric_Api\Tools\Npgsql.dll</HintPath>
+      <HintPath>..\..\..\Banking\Finsta_Banking_API\FinstaGenericRepository\bin\Debug\netcoreapp2.1\Npgsql.dll</HintPath>
     </Reference>
   </ItemGroup>
 
